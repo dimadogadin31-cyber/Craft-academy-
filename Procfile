@@ -1,0 +1,1 @@
+wotker: python main.py
